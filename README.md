@@ -14,3 +14,5 @@ https://gofile.io/d/hxVqIC
 解压密码：Pwn3rzs
 
 注意：此破解版本是外国人传出，未经检查是否存在后门或木马，请谨慎使用。
+
+为防止文件失效，已上传githb，可前往本项目的Releases中下载
